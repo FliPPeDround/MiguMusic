@@ -12,7 +12,7 @@ npm run electron:serve
 
 ### Compiles and minifies for production
 ```
-npm run lectron:build
+npm run electron:build
 ```
 
 ### Lints and fixes files
