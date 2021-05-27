@@ -1,0 +1,58 @@
+{
+  "id": "2015248",
+  "name": "elicon",
+  "font_family": "iconfont",
+  "css_prefix_text": "el-icon-font",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7719364",
+      "name": "电脑",
+      "font_class": "diannao",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "8228494",
+      "name": "歌单",
+      "font_class": "gedan",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "12343427",
+      "name": "位置",
+      "font_class": "weizhi",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "20231071",
+      "name": "历史",
+      "font_class": "lishi",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "8065312",
+      "name": "下一首",
+      "font_class": "xiayishou-copy-copy",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11466072",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "11807384",
+      "name": "播放",
+      "font_class": "bofang1",
+      "unicode": "e773",
+      "unicode_decimal": 59251
+    }
+  ]
+}
